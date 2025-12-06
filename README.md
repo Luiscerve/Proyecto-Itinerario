@@ -9,24 +9,11 @@ Tras completar el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM) y re
 Mi objetivo es incorporarme como Junior Backend Developer en un entorno dinámico, donde pueda aportar valor y seguir creciendo profesionalmente.
 
 ## Estructura del repositorio
-Este repositorio está dividido en dos apartados principales:
-
-- **`basics/`**  
-  Ejemplos básicos en Python que demuestran el uso de conceptos fundamentales:  
-  - Variables y tipos de datos  
-  - Sentencias de control (if, for, while)  
-  - Funciones y clases  
-  - Manejo de archivos  
-  - Ejemplos sencillos de interfaces gráficas o scripts prácticos  
-
-- **`projects/`**  
-  Proyectos personales más complejos que muestran mi capacidad para construir aplicaciones completas:  
-  - Mini API con Flask o FastAPI  
-  - Proyecto de inventario básico con generación automática de PDFs  
-  - Juego sencillo en Python con interfaz gráfica  
+- **basics/** → ejemplos básicos en Python (variables, bucles, funciones, clases, manejo de archivos).  
+- **projects/** → proyecto personal más complejo (mini API con Flask).  
 
 ## Portfolio digital
-Este repositorio está vinculado a mi sitio web profesional, donde comparto artículos técnicos y reflexiones sobre el mundo del desarrollo:  
+Este repositorio está vinculado a mi sitio web profesional y a mi perfil en GitHub:  
 - Sitio web: [enlace a tu sitio web]  
 - GitHub: [Luiscerve](https://github.com/Luiscerve)
 
